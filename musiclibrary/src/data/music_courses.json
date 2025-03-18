@@ -1,0 +1,85 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Master the piano with step-by-step lessons for absolute beginners.",
+        "price": 89.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Violin Mastery",
+        "slug": "violin-mastery",
+        "description": "A structured approach to learning the violin, from fundamentals to advanced techniques.",
+        "price": 109.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/violin.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Music Theory Essentials",
+        "slug": "music-theory-essentials",
+        "description": "Understand the principles of music theory and how they apply to playing and composing music.",
+        "price": 79.99,
+        "instructor": "Michael Brown",
+        "isFeatured": false,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Drumming Basics",
+        "slug": "drumming-basics",
+        "description": "Learn the fundamentals of drumming, rhythm, and coordination with expert lessons.",
+        "price": 89.99,
+        "instructor": "David Wilson",
+        "isFeatured": true,
+        "image": "/courses/drums.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Singing Techniques",
+        "slug": "singing-techniques",
+        "description": "Improve your vocal range, breath control, and confidence in singing.",
+        "price": 99.99,
+        "instructor": "Sarah Lee",
+        "isFeatured": false,
+        "image": "/courses/singing.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Bass Guitar Essentials",
+        "slug": "bass-guitar-essentials",
+        "description": "A beginner’s guide to mastering the bass guitar with practical exercises.",
+        "price": 95.99,
+        "instructor": "Alex Carter",
+        "isFeatured": true,
+        "image": "/courses/bass-guitar.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Ukulele for Beginners",
+        "slug": "ukulele-for-beginners",
+        "description": "A fun and easy way to learn the ukulele, perfect for all ages.",
+        "price": 69.99,
+        "instructor": "Rachel Adams",
+        "isFeatured": false,
+        "image": "/courses/ukulele.jpg"
+      }
+    ]
+  }
+  
